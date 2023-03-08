@@ -1,0 +1,6 @@
+data = ("Ahmad","Amin","Daud","Ghani",)
+print(data[0:2])
+print(data[-1])
+print(data[:2])
+print(data[2:])
+print(data)
